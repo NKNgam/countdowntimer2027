@@ -2,6 +2,8 @@
 
 A modern, high-precision, responsive countdown timer web application built with vanilla JavaScript, CSS3, and HTML5.
 
+🌐 **Live Demo**: [https://nkngam.github.io/countdowntimer2027/](https://nkngam.github.io/countdowntimer2027/)
+
 ## Features
 - **Real-time Live Ticking**: Accurate down to the millisecond, calculating days, hours, minutes, and seconds.
 - **Progress Tracking**: Visual progress bar showing elapsed percentage between start date and March 30, 2027.
